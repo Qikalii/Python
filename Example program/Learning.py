@@ -18,9 +18,8 @@ c = a / b
 print(c)
 
 
-string1 = '这是一个字符串'
+string1 = "这是一个字符串"
 string2 = "这是一个字符串"
 print(string1)
 print(string2)
-
-
+print(a)
