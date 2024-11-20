@@ -1,8 +1,8 @@
 import numpy as np
 
 ## print
-print("Hello world!")
-print("Hello world!")
+print("Hello world!")  # ""和''一样
+
 
 ## 字符串操作
 # 字符串连接
@@ -17,12 +17,6 @@ print('He said "Let\'s go!"')
 print("Hello!\nHi!")
 
 # 三引号跨行字符串
-print(
-    """Hi!
-Hello!
-How are you!"""
-)
-
 print(
     """Hi!
 Hello!
