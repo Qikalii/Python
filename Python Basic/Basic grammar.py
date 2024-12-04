@@ -1,5 +1,3 @@
-import numpy as np
-
 ## print
 print("Hello world!")  # ""和''一样
 
