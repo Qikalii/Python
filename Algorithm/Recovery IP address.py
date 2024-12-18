@@ -35,4 +35,5 @@ class Solution:
             num = num * 10 + int(s[i])
             if num > 255:  # 如果大于255了不合法
                 return False
-        return True
+
+        return

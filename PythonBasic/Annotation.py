@@ -8,3 +8,5 @@
 这是二行
 这是三行
 """
+arr = list(range(1))
+print(arr)
